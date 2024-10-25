@@ -6,6 +6,7 @@ members = [
     "crates/kornia-image",
     "crates/kornia-io",
     "crates/kornia-imgproc",
+    "crates/kornia-calib",
     "crates/kornia",
     "examples/*",
     # "kornia-py",
